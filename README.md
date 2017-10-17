@@ -1,4 +1,3 @@
 #ice-cream-cli-project
 
-find the local ice cream parlors nearest you! This ruby gem provides a CLI to locate all the
-ice cream shops within your zipcode 
+find ice cream specials from the top ice cream parlors! This ruby gem provides a CLI to collect all current ice cream specials  
