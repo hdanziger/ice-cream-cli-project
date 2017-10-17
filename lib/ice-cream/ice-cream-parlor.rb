@@ -1,1 +1,3 @@
-
+class IceCream::IceCreamParlor
+  
+end
