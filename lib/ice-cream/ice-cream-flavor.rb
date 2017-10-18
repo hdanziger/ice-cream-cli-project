@@ -10,5 +10,6 @@ class IceCream::IceCreamFlavor
     @parlor_name = parlor_name
     @url = url
     @flavor_name = flavor_name
-    @@all << self 
+    @@all << self
+  end
 end
