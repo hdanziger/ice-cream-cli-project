@@ -1,0 +1,8 @@
+user flow: how a user interacts with site
+  log in to program 
+  welcome message 
+  user sees list of ice creams and brands 
+  user picks a number (1-9)
+  user sees more detail about selection 
+  user types list to go back to list, or exit to leave the program 
+what code to write 

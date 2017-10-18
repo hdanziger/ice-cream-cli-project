@@ -3,5 +3,5 @@ require 'nokogiri'
 require 'open-uri'
 
 require relative #lib/scraper
-require relative #lib/IceCreamParlor
+require relative #lib/IceCreamFlavor
 require relative #lib/cli

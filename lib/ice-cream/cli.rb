@@ -1,16 +1,23 @@
 class IceCream::CLI
 
   def call
-    puts "Welcome to the top 3 ice creams for the top 3 brands!"
+    puts "Welcome to the newest 3 ice cream flavors for the top 3 brands!"
   end
+
+  def list_flavors
+    puts "New flavors:"
+    
 
   def menu
     input = nil
     while input != "exit"
-      puts "Enter number of flavor you'd like more info on or type list to see flavors again, or type exit:"
-      input = gets.strip.downcase
+      puts "Enter flavor number you'd like more info on or type list to see flavors again, or type exit:"
+      input = gets.strip.to_i.downcase
 
-      
+      if input.to_i > 0
+
+
+
   #welcome message
   #get information from user
   #responsible for displaying list, more information
