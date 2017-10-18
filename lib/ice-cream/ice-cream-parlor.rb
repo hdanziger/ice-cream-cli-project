@@ -1,3 +1,0 @@
-class IceCream::IceCreamParlor
-  
-end
